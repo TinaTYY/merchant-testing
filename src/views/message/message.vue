@@ -310,5 +310,6 @@ export default {
 </script>
 
 <style lang="css" scoped>
-@import "message.css";
+@import "./message.css";
+@import '../../style/style.css';
 </style>

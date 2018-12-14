@@ -46,6 +46,8 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
+</style>
 <style lang='css' scoped>
-    @import 'auditFailure.css';
+    @import './auditFailure.css';
+    @import '../../style/style.css';
 </style>

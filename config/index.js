@@ -12,7 +12,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/':{
-        target:'',
+        target:'http://odoo6.beta.pangqiu.com',
         changeOrigin:true,
         pathRewrite:{
             '':''

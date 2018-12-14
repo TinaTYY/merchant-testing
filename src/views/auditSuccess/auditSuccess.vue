@@ -55,5 +55,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="css" scoped>
-@import "auditSuccess.css";
+@import "./auditSuccess.css";
+@import '../../style/style.css';
 </style>
