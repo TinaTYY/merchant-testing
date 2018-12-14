@@ -1,0 +1,152 @@
+#pages {
+    width: 100%;
+    height: 1000px;
+    margin: auto;
+    background-color: #e9eef3;
+  }
+  .el-header {
+    background: url("../../assets/wrapBg.png") no-repeat center;
+    background-size: cover;
+    text-align: center;
+  }
+  #mesHade {
+    width: 1000px;
+    height: 120px !important;
+    margin: auto;
+  }
+  .telData {
+    width: 100%;
+    line-height: 130px;
+    text-align: right;
+  }
+  #mesMain {
+    width: 1000px;
+    height: auto;
+    color: #333;
+    text-align: center;
+    margin: auto;
+    border: 2px solid #eee;
+    box-sizing: border-box;
+    background: white;
+    border: 2px solid #fff;
+  }
+  .step-one {
+    width: 100%;
+    height: 70px;
+    line-height: 25px;
+    font-size: 24px;
+    box-sizing: border-box;
+  }
+  .step-one span {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin-top: 5px;
+    font-size: 30px;
+    margin-left: 10px;
+  }
+  .step-one i {
+    display: inline-block;
+    width: 10%;
+    height: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+  }
+  .solid {
+    background: url("../../assets/solidbg.png") no-repeat center;
+    background-size: 100% 100%;
+  }
+  .solids {
+    background: url("../../assets/solidsBg.png") no-repeat center;
+    background-size: 100% 100%;
+  }
+  .select {
+    background: red;
+    color: white;
+  }
+  .el-form {
+    margin-top: 35px !important;
+  }
+  #formName {
+    width: 73%;
+  }
+  #formName .el-input {
+    width: 48%;
+  }
+  #formPhone {
+    width: 70%;
+  }
+  #formPhone .el-input {
+    width: 50%;
+  }
+  .el-input {
+    display: inline-block;
+    height: 47px;
+  }
+  input {
+    background: transparent;
+    border: 0px;
+    -webkit-appearance: none;
+    border-radius: 0px;
+    padding: 12px 5px 12px 15px;
+    height: 47px;
+  }
+  span {
+    display: inline-block;
+    width: 22%;
+    text-align: left;
+  }
+  i {
+    color: red;
+  }
+  .uploadImg {
+    width: 100%;
+    display: flex;
+  }
+  #uploadDdata {
+    width: 60%;
+  }
+  #uploadF {
+    width: 40%;
+  }
+  #uploadDdata .el-form-item {
+    width: 100%;
+    display: flex;
+  }
+  #uploadDdata img,
+  #uploadF img {
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+  }
+  .cut {
+    width: 24%;
+  }
+  #subBtn {
+    margin-top: 20px;
+  }
+  .el-form-item {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    color: #454545;
+  }
+  #showIdback{
+    width: 65%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .showIdbacks {
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+  }
+  .showIdbacks img {
+    width: 100%;
+    height: 100%;
+  }
