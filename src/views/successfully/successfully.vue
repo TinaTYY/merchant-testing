@@ -43,7 +43,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style lang="css" scoped>
+<style lang="css">
     @import "./successfully.css";
     @import '../style.css';
 </style>
