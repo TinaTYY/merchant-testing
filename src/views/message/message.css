@@ -31,7 +31,7 @@
     border: 2px solid #fff;
   }
 
-  .el-form {
+  #mesMain .el-form {
     margin-top: 35px !important;
   }
   #formName {
@@ -50,7 +50,7 @@
     display: inline-block;
     height: 47px;
   }
-  input {
+  #mesMain input {
     background: transparent;
     border: 0px;
     -webkit-appearance: none;
@@ -58,12 +58,12 @@
     padding: 12px 5px 12px 15px;
     height: 47px;
   }
-  span {
+  /* span {
     display: inline-block;
     width: 22%;
     text-align: left;
-  }
-  i {
+  } */
+  #mesMain i {
     color: red;
   }
   .uploadImg {

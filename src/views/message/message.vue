@@ -309,7 +309,7 @@ export default {
 };
 </script>
 
-<style lang="css">
+<style lang="css" scoped>
 @import "./message.css";
 @import '../style.css';
 </style>

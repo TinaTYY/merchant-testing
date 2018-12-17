@@ -1,12 +1,12 @@
-ul{
+#succssMain ul{
     margin-top: 50px;
 }
-li{
+#succssMain li{
     list-style: none;
     text-align: left;
     margin-top: 20px;
 }
-h2{
+#succssMain h2{
     height: 10px;
 }
 .wrap{
@@ -41,7 +41,7 @@ h2{
 .cist{
     line-height:300px;
 }
-img{
+.sussList img{
     width: 150px;
     height: 150px;
     border: 1px solid #eee;
