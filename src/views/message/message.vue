@@ -311,5 +311,5 @@ export default {
 
 <style lang="css" scoped>
 @import "./message.css";
-@import '../../style/style.css';
+@import '../style.css';
 </style>

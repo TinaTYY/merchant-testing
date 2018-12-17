@@ -49,5 +49,5 @@ export default {
 </style>
 <style lang='css' scoped>
     @import './auditFailure.css';
-    @import '../../style/style.css';
+    @import '../style.css';
 </style>

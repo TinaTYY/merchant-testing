@@ -1404,5 +1404,5 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="css" scoped>
 @import "./infoData.css";
-@import '../../style/style.css';
+@import '../style.css';
 </style>
