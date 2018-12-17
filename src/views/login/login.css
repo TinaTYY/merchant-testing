@@ -60,7 +60,7 @@
     width:15px;
     color:white;
 }
-input {
+.login-container input {
     background: transparent;
     border: 0px;
     -webkit-appearance: none;
@@ -70,7 +70,6 @@ input {
 }
 span{
     display:inline-block;
-    width:95px;
 }
 .cut{
     width:20%;
